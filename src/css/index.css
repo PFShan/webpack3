@@ -1,0 +1,9 @@
+body {
+    background-color: gray;
+    color: white;
+}
+#tupian{
+    background-image: url("../images/webpack.png");
+    width: 466px;
+    height: 453px;
+}
